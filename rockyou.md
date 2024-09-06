@@ -5,9 +5,6 @@ Gitflow style
 
 ## Chorus 1
 
-We will, we will rock you
-We will, we will rock you
-->
 ## Verse 2
 
 Buddy, you're a young man, hard man

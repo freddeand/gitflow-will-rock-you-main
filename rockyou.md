@@ -9,6 +9,9 @@ We will, we will rock you
 We will, we will rock you
 ->
 ## Verse 2
+We will, we will rock you
+We will, we will rock you
+->
 
 ## Chorus 2
 
